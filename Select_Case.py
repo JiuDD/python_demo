@@ -1,7 +1,6 @@
 import pandas as pd
 import json
 import sys
-import demjson
 
 obj1 = '''
 [{"name": "李四", "age": 25, "pet": "汪星人"},

@@ -1,7 +1,7 @@
 import pandas
 import json
 import sys
-import demjson
+
 import pandas as pd
 
 obj1 = '''

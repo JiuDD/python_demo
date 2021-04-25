@@ -31,3 +31,6 @@ target/
 
 # python的虚拟环境
 venv/
+
+
+.idea/
